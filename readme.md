@@ -7,7 +7,7 @@ This project is a frontend clone of WhatsApp, built using **TypeScript**. It rep
 - Built with modern TypeScript for type safety and maintainability.
 - Additional features to improve usability and customization.
 - Users can play games in whatsapp
-- added charts and stats to track your useage in whatsapp
+- added charts and stats to track your usage in whatsapp
 > Note: This project focuses solely on the frontend and does not include backend or real-time messaging functionality.
 
 Feel free to explore and customize the code to suit your needs!
